@@ -1,90 +1,90 @@
 [
-  {
-"id": 1,
-"title": "Honda Aviator Analog Speedometer",
-"price": "1950.00",
-"salePrice":"1580.00",
-"discount":"30",
-"description": "Honda Aviator Analog Speedometer to measure and display the speed of your vehicle instantaneously",
-"category": "Speedometer",
-"vechileBrand&Model":"Honda,Aviator",
-"image": "https://eauto.co.in/cdn/shop/products/mukut-analog-speedometer-for-honda-aviator-het-417_500x.jpg?v=1631371351",
-"rating": {
-"rate": 3.9,
-"count": 120
-},
-"stock":"In Stock"
-},
-{
-"id": 2,
-"title": "Honda Twister Analog Speedometer",
-"price": "1850.00",
-"salePrice":"1450.00",
-"discount":"20",
-"description": "Honda Twister Analog Speedometer to measure and display the speed of your vehicle instantaneously",
-"category": "Speedometer",
-"vechileBrand&Model":"Honda,Twister",
-"image": "https://eauto.co.in/cdn/shop/products/mukut-analog-speedometer-for-honda-twister-301_700x.jpg?v=1640009139",
-"stock":"Out Stock"
-},
-{
-"id": 3,
-"title": "Head Light Set For Honda Twister",
-"price": "0",
-"salePrice":"856.00",
-"discount":"0",
-"description": "Honda Twister headlights to illuminate your ride and to keep you dazzling through those long night commutes",
-"category": "Head Light",
-"vechileBrand&Model":"Honda,Twister",
-"image": "https://eauto.co.in/cdn/shop/products/lumax-head-light-set-for-honda-twister-818_700x.jpg?v=1631370846",
-"stock":"In Stock"
-},
-{
-"id": 4,
-"title": "Rear Shock Absorber for TVS Jupiter",
-"price": "1650.00",
-"salePrice":"950.00",
-"discount":"0",
-"description": "Honda Twister headlights to illuminate your ride and to keep you dazzling through those long night commutes",
-"category": "Shock Absorber",
-"vechileBrand&Model":"Tvs,Jupiter",
-"image": "https://eauto.co.in/cdn/shop/products/rear-shock-absorber-for-tvs-jupiter-192_700x.jpg?v=1645882155",
-"stock":"In Stock"
-},
-{
-"id": 5,
-"title": "Clutch Pulley for TVS Jupiter",
-"price": "1449.00",
-"salePrice":"1049.00",
-"discount":"28",
-"description": "High Grade Clutch Pulley Set for efficient transmission and reliable functioning of your bike and scooty",
-"category": "Clutch Pulley",
-"vechileBrand&Model":"Tvs,Jupiter",
-"image": "https://eauto.co.in/cdn/shop/products/clutch-pulley-for-tvs-jupiter-118_700x.jpg?v=1631367790",
-"stock":"Out Stock"
-},
-{
-"id": 6,
-"title": "Handle Bar Switch for Yamaha FZ 25 | Right Hand",
-"price": "891.00",
-"salePrice":"599.00",
-"discount":"15",
-"description": "Original Handle Bar Switch from Eauto for reliable control and comfortable rides",
-"category": "Handle Bar Switch",
-"vechileBrand&Model":"Yamaha,FZ 25",
-"image": "https://eauto.co.in/cdn/shop/products/SW-0570-M01_700x.jpg?v=1686311911",
-"stock":"In Stock"
-},
-{
-"id": 7,
-"title": "Castrol MAGNATEC STOP-START 5W-30 Full Synthetic Engine Oil",
-"price": "2537.00",
-"salePrice":"2170.00",
-"discount":"17",
-"description": "Suitable for use in cars with petrol, diesel or CNG powered engines where API SN, ACEA A5/B5, A1/B1 specifications are recommended by manufacturers",
-"category": "Engine Oil",
-"vechileBrand&Model":"Castrol,Magnatec",
-"image": "https://m.media-amazon.com/images/I/71ziSMErGFL._AC_UL400_.jpg",
-"stock":"In Stock"
-},
+   {
+      "id":1,
+      "title":"Honda Aviator Analog Speedometer",
+      "price":"1950.00",
+      "salePrice":"1580.00",
+      "discount":"30",
+      "description":"Honda Aviator Analog Speedometer to measure and display the speed of your vehicle instantaneously",
+      "category":"Speedometer",
+      "vechileBrand&Model":"Honda,Aviator",
+      "image":"https://eauto.co.in/cdn/shop/products/mukut-analog-speedometer-for-honda-aviator-het-417_500x.jpg?v=1631371351",
+      "rating":{
+         "rate":3.9,
+         "count":120
+      },
+      "stock":"In Stock"
+   },
+   {
+      "id":2,
+      "title":"Honda Twister Analog Speedometer",
+      "price":"1850.00",
+      "salePrice":"1450.00",
+      "discount":"20",
+      "description":"Honda Twister Analog Speedometer to measure and display the speed of your vehicle instantaneously",
+      "category":"Speedometer",
+      "vechileBrand&Model":"Honda,Twister",
+      "image":"https://eauto.co.in/cdn/shop/products/mukut-analog-speedometer-for-honda-twister-301_700x.jpg?v=1640009139",
+      "stock":"Out Stock"
+   },
+   {
+      "id":3,
+      "title":"Head Light Set For Honda Twister",
+      "price":"0",
+      "salePrice":"856.00",
+      "discount":"0",
+      "description":"Honda Twister headlights to illuminate your ride and to keep you dazzling through those long night commutes",
+      "category":"Head Light",
+      "vechileBrand&Model":"Honda,Twister",
+      "image":"https://eauto.co.in/cdn/shop/products/lumax-head-light-set-for-honda-twister-818_700x.jpg?v=1631370846",
+      "stock":"In Stock"
+   },
+   {
+      "id":4,
+      "title":"Rear Shock Absorber for TVS Jupiter",
+      "price":"1650.00",
+      "salePrice":"950.00",
+      "discount":"0",
+      "description":"Honda Twister headlights to illuminate your ride and to keep you dazzling through those long night commutes",
+      "category":"Shock Absorber",
+      "vechileBrand&Model":"Tvs,Jupiter",
+      "image":"https://eauto.co.in/cdn/shop/products/rear-shock-absorber-for-tvs-jupiter-192_700x.jpg?v=1645882155",
+      "stock":"In Stock"
+   },
+   {
+      "id":5,
+      "title":"Clutch Pulley for TVS Jupiter",
+      "price":"1449.00",
+      "salePrice":"1049.00",
+      "discount":"28",
+      "description":"High Grade Clutch Pulley Set for efficient transmission and reliable functioning of your bike and scooty",
+      "category":"Clutch Pulley",
+      "vechileBrand&Model":"Tvs,Jupiter",
+      "image":"https://eauto.co.in/cdn/shop/products/clutch-pulley-for-tvs-jupiter-118_700x.jpg?v=1631367790",
+      "stock":"Out Stock"
+   },
+   {
+      "id":6,
+      "title":"Handle Bar Switch for Yamaha FZ 25 | Right Hand",
+      "price":"891.00",
+      "salePrice":"599.00",
+      "discount":"15",
+      "description":"Original Handle Bar Switch from Eauto for reliable control and comfortable rides",
+      "category":"Handle Bar Switch",
+      "vechileBrand&Model":"Yamaha,FZ 25",
+      "image":"https://eauto.co.in/cdn/shop/products/SW-0570-M01_700x.jpg?v=1686311911",
+      "stock":"In Stock"
+   },
+   {
+      "id":7,
+      "title":"Castrol MAGNATEC STOP-START 5W-30 Full Synthetic Engine Oil",
+      "price":"2537.00",
+      "salePrice":"2170.00",
+      "discount":"17",
+      "description":"Suitable for use in cars with petrol, diesel or CNG powered engines where API SN, ACEA A5/B5, A1/B1 specifications are recommended by manufacturers",
+      "category":"Engine Oil",
+      "vechileBrand&Model":"Castrol,Magnatec",
+      "image":"https://m.media-amazon.com/images/I/71ziSMErGFL._AC_UL400_.jpg",
+      "stock":"In Stock"
+   },
 ]
